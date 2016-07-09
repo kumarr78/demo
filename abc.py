@@ -1,5 +1,3 @@
 print "my hello"
 
-print "demo"
-print "abc"
-print "bye"
+print "hi how are you?"
